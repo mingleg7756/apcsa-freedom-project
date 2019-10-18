@@ -1,5 +1,6 @@
+<!--Blog Entry template is at https://hstatsep.github.io/students/-->
 # APCSA Freedom Project
-by Your Name Here
+by Ming Le Gao
 
 ## Context
 Text
